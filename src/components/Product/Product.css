@@ -1,0 +1,12 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+}
+
+.main-btn{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    width: 150px;
+    border-radius: 5px;
+}
